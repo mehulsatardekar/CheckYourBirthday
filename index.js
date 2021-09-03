@@ -57,7 +57,7 @@ function checkPrimeNo(joinDate){
    if(isPrime === 'true'){
      console.log(chalk.red('Your birthdate is not prime no'))
    }else{
-     console.log(chalk.green('Your birthdate is  prime no'));
+     console.log(chalk.green('Your birthdate is  prime no..... \n share it on social media'));
    }
 }
 
